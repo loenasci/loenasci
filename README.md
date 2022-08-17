@@ -1,4 +1,4 @@
-# :sunglasses: Hello Earth! :wave:
+# Welcome Stranger #
 
 <p align="center"><img width="100%" height="auto" src="https://media.giphy.com/media/fqmoy08dSn3kk/giphy.gif"> </p>
 
@@ -6,17 +6,14 @@
 <h2> About me</h2>
 
 - :computer: I’m currently studying Software Engineering as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
-- :hammer: Interested in 3D Printing
-- :green_heart: Love sports [:soccer:], food [:sushi:], music [:guitar:], movies [:clapper:] and coffee [:coffee:]
+- :purple_heart: music [:guitar:], food [:sushi:], movies/series [:clapper:] and coffee [:coffee:] every single day! =)
 - :smiley: Pronouns: They/Them
 
 ---
 <h2 align="center"> 42 tracking </h2>
 <!-- <h3> \-\-\-\> Level Status </h3> -->
 
-<h3> ---> 42_projects </h3>
-  
-  
+<h3>💻 42_projects</h3>
 
 <div>
   <h3 aling="center">Fase 1</h3>
@@ -33,18 +30,10 @@
 <div>
   <h3 aling="center">Fase 2</h3>
   <ul>
-    <li> Starting Push_swap </li>
+    <li> Starting push_swap </li>
   </ul>
 </div>
-  
-  <div align="center">
-    <h3 align="center">Fase 2</h3>
-    <a href="https://github.com/lamorim42/push_swap" target="_blank"><img height="82" width="82" src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" ></a>
-    <a href="https://github.com/lamorim42/minishell" target="_blank"><img height="82" width="82" src="https://game.42sp.org.br/static/assets/achievements/minishelle.png" ></a>
-  </div>
-</div>  
 
----
 <h2 align="center"> Work space </h2>
   
 <h3> Programing languages </h3>
@@ -56,12 +45,10 @@
 <br/>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
   
 <h3> Data base </h3>
   
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Dynamodb](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
   
 <h3> Tools </h3>
 
@@ -75,6 +62,7 @@
 <h3> Frameworks </h3>
 
 ![Shell_script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 <br/>
@@ -91,6 +79,6 @@
 
 <h2 align="center"> Contact </h2>
 
-<a href="https://www.linkedin.com/in/lu%C3%ADs-henrique-amorim-9a1705128/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/leonardofilipens/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </br>
-<a href="mailto:luishads@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:leonardofilipenasci@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
