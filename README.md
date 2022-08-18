@@ -6,7 +6,7 @@
 <h2> About me</h2>
 
 - :computer: I’m currently studying Software Engineering as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
-- :purple_heart: music [:guitar:], food [:sushi:], movies/series [:clapper:] and coffee [:coffee:] every single day! =)
+- :purple_heart: music/sing 🎙, food [:sushi:], movies/series [:clapper:], debate issues [🗣], and coffee [:coffee:] every single day! =)
 - :smiley: Pronouns: They/Them
 
 ---
