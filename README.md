@@ -1,4 +1,4 @@
-# Welcome Stranger #
+# Welcome, Stranger #
 
 <p align="center"><img width="100%" height="auto" src="https://media.giphy.com/media/fqmoy08dSn3kk/giphy.gif"> </p>
 
