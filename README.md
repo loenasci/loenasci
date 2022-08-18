@@ -1,6 +1,6 @@
 # Welcome, Stranger #
 
-<p align="center"><img width="100%" height="auto" src="https://media.giphy.com/media/fqmoy08dSn3kk/giphy.gif"> </p>
+<p align="center"><img width="100%" height="auto" src="https://c.tenor.com/h_j-gA2isIcAAAAC/residentevil-merchant.gif"> </p>
 
 
 <h2> About me</h2>
