@@ -24,13 +24,14 @@
     <li>born2beroot</li>
     <li>so_long</li>
     <li>minitalk</li>
+    <li>push_swap</li>
   </ul>
 </div> 
 
 <div>
   <h3 aling="center">Fase 2</h3>
   <ul>
-    <li> Starting push_swap </li>
+    <li> Minishell - Development in progress </li>
   </ul>
 </div>
 
