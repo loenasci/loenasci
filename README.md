@@ -1,13 +1,10 @@
-# Welcome, Stranger #
-
-<p align="center"><img width="100%" height="auto" src="https://c.tenor.com/h_j-gA2isIcAAAAC/residentevil-merchant.gif"> </p>
-
+# Welcome #
 
 <h2> About me</h2>
 
 - :computer: I’m currently studying Software Engineering as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
 - :purple_heart: music/sing 🎙, food [:sushi:], movies/series [:clapper:], debate issues [🗣], and coffee [:coffee:] every single day! =)
-- :smiley: Pronouns: They/Them
+- :smiley: Pronouns: She/Her
 
 ---
 <h2 align="center"> 42 tracking </h2>
