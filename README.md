@@ -7,33 +7,6 @@
 - :smiley: Pronouns: She/Her
 
 ---
-<h2 align="center"> 42 tracking </h2>
-<!-- <h3> \-\-\-\> Level Status </h3> -->
-
-<h3>💻 42_projects</h3>
-
-<div>
-  <h3 aling="center">Fase 1</h3>
-  <ul>
-    <li>libft</li>
-    <li>get_next_line</li>
-    <li>ft_printf</li>
-    <li>born2beroot</li>
-    <li>so_long</li>
-    <li>minitalk</li>
-    <li>push_swap</li>
-  </ul>
-</div> 
-
-<div>
-  <h3 aling="center">Fase 2</h3>
-  <ul>
-    <li> Minishell - Development in progress </li>
-  </ul>
-</div>
-
-<h2 align="center"> Work space </h2>
-  
 <h3> Programing languages </h3>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
