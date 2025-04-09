@@ -3,7 +3,6 @@
 ## About me
 
 - :computer: I`m a Software Engineering
-- :purple_heart: music/sing 🎙, food [:sushi:], movies/series [:clapper:], debate issues [🗣], and coffee [:coffee:] every single day! =)
 - :smiley: Pronouns: She/Her
 
 ---
